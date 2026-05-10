@@ -1,6 +1,6 @@
 # ciris
 
-一个有typescript写的最小化智能体
+一个由typescript写的最小化智能体
 
 agent = llm + tools calling
 
